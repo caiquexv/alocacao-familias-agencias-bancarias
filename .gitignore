@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Licença/credenciais do Gurobi (não subir!)
+gurobi.lic
+
+# Instâncias de dados (arquivos grandes gerados)
+instancia_*.json
